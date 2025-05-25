@@ -1,8 +1,8 @@
 export default function PlayersRankingSection({
   title = "PLAYERS RANKING",
   blocks = [
-    { image: "player1.jpeg", caption: "BAT" },
-    { image: "player2.jpeg", caption: "BOWL" },
+    { image: "player1.jpeg", caption: "BATSMAN" },
+    { image: "player2.jpeg", caption: "BOWLERS" },
     { image: "player3.jpeg", caption: "ALL ROUNDERS" },
     { image: "player4.jpeg", caption: "FIELDERS" },
   ],
